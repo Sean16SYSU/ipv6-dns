@@ -1,12 +1,19 @@
-# ipv6-dns
-Using this dns, you can access to google, youtube, facebook in China.
+# ipv6-host
 
-# Example
+Using this host file, you can access to google, google scholar, google translation, youtube, facebook in China domain.
 
-**Windows user:**
+However, we can not watch the videos in Youtube, and I am still working on it.
 
-Change `host` file with the host in this github 
-in `C:\Windows\System32\drivers\etc`
+# How to do?
 
-**Other systems user:**
-Need to change host as well, but the same path.
+Replace the **hosts** file in specific folder with the **hosts** file in the github.
+
+That's all, and enjoy Google in ipv6.
+
+# Where is the hosts?
+
+System| path
+--|--
+Windows| C:\Windows\System32\drivers\etc\hosts
+Macbook| /etc/hosts
+Ubuntu|  /etc/hosts
