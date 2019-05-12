@@ -20,8 +20,7 @@ Windows| C:\Windows\System32\drivers\etc\hosts
 Macbook| /etc/hosts
 Ubuntu|  /etc/hosts
 
-
-## The available website
+## The accessible website
 
 * Google
 * Google scholar
@@ -51,3 +50,15 @@ Ubuntu|  /etc/hosts
 Windows| C:\Windows\System32\drivers\etc\hosts
 Macbook| /etc/hosts
 Ubuntu|  /etc/hosts
+
+
+## 可以访问的网站
+
+* 谷歌
+* 谷歌学术
+* Gmail
+* 谷歌文档
+* 谷歌驱动
+* 谷歌翻译
+* Youtube(只能访问网站，还不能看视频)
+* 脸书
