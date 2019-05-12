@@ -42,7 +42,7 @@ Ubuntu|  /etc/hosts
 
 将这个repo中的hosts文件，替换掉在自己电脑的特定目录下的hosts文件就好了。
 
-就是这么简单，享受在ipv6。
+就是这么简单，享受ipv6。
 
 ## hosts文件究竟在哪？
 
