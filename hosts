@@ -2,6 +2,8 @@
 
 2404:6800:4005:800::200e security.google.com
 
+2a00:1450:4001:819::200e myaccount.google.com
+
 2a00:1450:4001:80b::2004 drive.google.com
 
 2a00:1450:4001:806::200d docs.google.com
@@ -32,7 +34,7 @@
 
 2404:6800:4005:803::200e ipv6.google.com
 
-2404:6800:4005:803::200e developers.google.com
+2a00:1450:4001:817::200e developers.google.com
 
 2404:6800:4005:803::200e maps.google.com
 
@@ -50,7 +52,7 @@
 
 2404:6800:4005:805::200e drive.google.com
 
-2404:6800:4005:805::200e myaccount.google.com
+
 
 2404:6800:4005:805::200e clients2.google.com
 
@@ -153,11 +155,13 @@
 2404:6800:4005:803::200e store.google.com
 
 2404:6800:4005:804::200e store.google.com
- 
+
+
+
 
 # YouTube
 
-2404:6800:4005:80e::200e www.youtube.com
+2a00:1450:4001:817::200e www.youtube.com
 
 # Facebook 
 2a03:2880:f10d:83:face:b00c:0:25de www.Facebook.com
@@ -166,4 +170,9 @@
 # Google translation 
 2404:6800:4005:80e::200e translate.google.com
 
+# Twitter
+
+2a00:1450:4001:808::200e twitter.com
+
 192.168.59.1 windows10.microdone.cn
+
