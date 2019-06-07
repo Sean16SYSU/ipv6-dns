@@ -1,5 +1,9 @@
 # google
 
+2a00:1450:4001:814::2001 googleusercontent.com
+2a00:1450:4001:814::2001 doc-10-9c-docs.googleusercontent.com
+2a00:1450:4001:814::2001 doc-00-9c-docs.googleusercontent.com
+
 2404:6800:4005:800::200e security.google.com
 
 2a00:1450:4001:819::200e myaccount.google.com
@@ -101,8 +105,6 @@
 2404:6800:4005:80a::2004 ggpht.com
 
 2404:6800:4005:80b::2004 ggpht.com
-
-2a00:1450:4001:814::2001 googleusercontent.com
 
 2607:f8b0:4002:c06::8a android.clients.google.com
 
