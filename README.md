@@ -1,4 +1,4 @@
-# English version introduction
+# English introduction
 
 ## ipv6-host
 
