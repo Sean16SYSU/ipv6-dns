@@ -30,6 +30,7 @@ Ubuntu|  /etc/hosts
 * Google Translate
 * youtube(just the website, the videos are inaccessible)
 * facebook
+* Wikipedia zh
 
 # 中文版介绍
 
@@ -62,3 +63,4 @@ Ubuntu|  /etc/hosts
 * 谷歌翻译
 * Youtube(只能访问网站，还不能看视频)
 * 脸书
+* 中文维基百科
