@@ -4,8 +4,7 @@
 
 Using this host file, you can access to google, google scholar, google translation, google driver, youtube, facebook in China domain.
 
-However, we can not watch the videos in Youtube, and I am still working on it.
-
+The videos on Youtube are now available.
 ## How to do?
 
 Replace the **hosts** file in specific folder with the **hosts** file in the github.
@@ -28,7 +27,7 @@ Ubuntu|  /etc/hosts
 * Google docs
 * Google driver
 * Google Translate
-* youtube(just the website, the videos are inaccessible)
+* youtube
 * facebook
 * Wikipedia zh
 * Wikipedia en
@@ -84,7 +83,7 @@ C:\Users\lijy2>
 
 ## ivp6-host
 使用这个host file, 你就可以在中国大陆境内通过ipv6来访问谷歌，谷歌学术，谷歌翻译，谷歌驱动，youtube，脸书等。
-然而目前不可以看在youtube中的视频，目前我正在攻克这个问题。
+**目前youtube的视频也可以看了**
 
 ## 怎么做？
 
@@ -109,7 +108,7 @@ Ubuntu|  /etc/hosts
 * 谷歌文档
 * 谷歌驱动
 * 谷歌翻译
-* Youtube(只能访问网站，还不能看视频)
+* Youtube
 * 脸书
 * 中文维基百科
 * 英文维基百科
